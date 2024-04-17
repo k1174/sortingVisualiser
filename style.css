@@ -1,0 +1,24 @@
+body{
+    margin: 0;
+    height: 100vh;
+    width: 100vw;
+    background-color: #31363F;
+}
+
+.container {
+    display: flex;
+    align-items: flex-end;
+    width: 100%;
+    height: 50%;
+    gap: 10px;
+}
+
+.bar{
+    background-color: darkslateblue;
+    width: 50%;
+    height: 100%;
+}
+
+.dataInput{
+    padding: 20px;
+}
